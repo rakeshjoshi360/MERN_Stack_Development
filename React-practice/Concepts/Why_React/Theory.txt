@@ -1,0 +1,32 @@
+● What is Emmet? 
+(
+    Emmets are shorcuts that can quickely expandable to full code block. These are design to speedup the process of writing and editing code.
+    Example- !, !document, div.class_name#id_name etc
+)
+● Difference between a Library and Framework? 
+(
+    A library is a collection of packages to perform specific operation whereas a framework contains basic flow and architecture of the application. The main difference b/w them is complexity. Libraries takes minimum effort to put it into our code, developer can call it wherever they want. The framework tells the developer what it needs and calls the code provided by developer as required.
+    Example- "React" is a library and "Angular" is a framework
+)
+● What is CDN? Why do we use it? 
+(
+    CDN(Content Delivery Network)- It is network geographically distributed group of servers that work together to deliver internet content to users fast, efficently and secure.
+)
+● Why is React known as React?
+(
+    React is named as React because of it's ability to react to changes in data. React was designed to be a declarative, efficient and flexible JS library for building UI. It allow developers to "react" to the changes in state and data within an application, and to update the UI in a declarative and efficient manner. React is JavaScript based UI library build by Facebook.
+)
+● What is crossorigin in script tag?
+(
+    The crossorigin attribute sets the mode of the request to an HTTP CORS(Hypertext Transfer Protocol Cross-Origin Resource sharing). The purpose of crossorigin is used to share resources from one domain to another domain. Basically , it is used to handle CORUS request which checks weather is it safe to allow for sharing the resources to the other domains.
+    syntax- <script crossorigin="anonymous|use-credentials">
+)
+● What is diference between React and ReactDOM ?
+(
+    React is a JS library for building UI whereas ReactDOM is also a library that allow React to interact with the DOM. The react package contains React.createElement(), React.Component, React.Children, and other helpers related to elements and component classes. You can think of these as the isomorphic or universal helpers that you need to build components. The react-dom package contains ReactDOM.render(), and in react-dom/server we have server-side rendering support with ReactDOMServer.renderToString() and ReactDOMServer.renderToStaticMarkup().
+)
+● What is difference between react.development.js and react.production.js files via CDN? 
+(
+    react.development is library used for development, before an application goes public. react.production is a library used for production mode, when an application goes public.
+)
+● What is async and defer? - see Namaste JS video
