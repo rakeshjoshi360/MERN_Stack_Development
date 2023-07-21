@@ -1,0 +1,27 @@
+{
+  "name": "cra_via_parcel",
+  "version": "1.0.0",
+  "description": "Parcel learning to build our own create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshjoshi360/MERN_Stack_Development.git"
+  },
+  "author": "Rakesh Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshjoshi360/MERN_Stack_Development/issues"
+  },
+  "homepage": "https://github.com/rakeshjoshi360/MERN_Stack_Development#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
