@@ -10,7 +10,7 @@ const heading1 = React.createElement("h1", {
     "Heading 1 from react"
 );
 const heading2 = React.createElement("h2", {
-    id: "title",
+    id: "title2",
     hello: "world"
 }, 
     "Heading 2 from react"
