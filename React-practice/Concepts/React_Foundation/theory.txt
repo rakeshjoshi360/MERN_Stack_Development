@@ -1,0 +1,3 @@
+//npx = npm run
+//npx parcel index.html => npm run start === npm start
+//npx parcel build index.html => npm run build
